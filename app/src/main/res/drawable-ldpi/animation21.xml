@@ -1,0 +1,58 @@
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="true" >
+    <item
+        android:drawable="@drawable/page_twenty_0001"
+        android:duration="100"/>
+    <item
+        android:drawable="@drawable/page_twenty_0009"
+        android:duration="100"/>
+    <item
+        android:drawable="@drawable/page_twenty_0017"
+        android:duration="100"/>
+    <item
+        android:drawable="@drawable/page_twenty_0025"
+        android:duration="100"/>
+    <item
+        android:drawable="@drawable/page_twenty_0033"
+        android:duration="100"/>
+    <item
+        android:drawable="@drawable/page_twenty_0041"
+        android:duration="100"/>
+    <item
+        android:drawable="@drawable/page_twenty_0049"
+        android:duration="100"/>
+    <item
+        android:drawable="@drawable/page_twenty_0057"
+        android:duration="100"/>
+    <item
+        android:drawable="@drawable/page_twenty_0065"
+        android:duration="100"/>
+    <item
+        android:drawable="@drawable/page_twenty_0073"
+        android:duration="100"/>
+    <item
+        android:drawable="@drawable/page_twenty_0081"
+        android:duration="100"/>
+    <item
+        android:drawable="@drawable/page_twenty_0089"
+        android:duration="100"/>
+    <item
+        android:drawable="@drawable/page_twenty_0097"
+        android:duration="100"/>
+
+    <item
+        android:drawable="@drawable/page_twenty_0105"
+        android:duration="100"/>
+    <item
+        android:drawable="@drawable/page_twenty_0113"
+        android:duration="100"/>
+    <item
+        android:drawable="@drawable/page_twenty_0121"
+        android:duration="100"/>
+    <item
+        android:drawable="@drawable/page_twenty_0129"
+        android:duration="100"/>
+
+
+
+</animation-list>

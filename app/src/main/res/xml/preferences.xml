@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- This xml file is not used. Kept for possible preferences/settings dialog in the future.-->
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <CheckBoxPreference
+        android:key="sound"
+        android:title="@string/sound"
+        android:defaultValue="true" />
+    <!--
+    <ListPreference
+        android:key="background_color"
+        android:title="@string/background_color"
+        android:dialogTitle="@string/background_color"
+        android:entries="@array/background_color_entries"
+        android:entryValues="@array/background_color_values"
+        android:defaultValue="@string/background_color_default" />-->
+
+
+    <com.gnyrfta.androidstorytwelve.MyDialogPreference
+        android:key="info"
+        android:title="About"
+        android:dialogTitle="About"
+        android:dialogMessage="\nArtists:\nRakel Grabka - Owl and Fjärilsvaldrake\nOlivia Lundhqvist - book-icon\nHenrik Jacobsson - Lightning\nApp by David Jacobsson \ndavid.jacobsson@protonmail.com"
+        android:positiveButtonText="Ok"
+        android:negativeButtonText=""
+        />
+
+
+</PreferenceScreen>

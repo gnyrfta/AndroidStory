@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Sprickan i Himlen</string>
+    <string name="title">Sprickan i Himlen</string>
+    <string name="intro">Språk</string>
+    <string name="sound">Ljud på</string>
+    <string name="action_preferences">Inställningar</string>
+    <string name="action_settings">Settings</string>
+    <string name="testing">Testing</string>
+    <string name="info_one">Språk</string>
+    <string name="info_two">Du kan börja läsa här</string>
+    <string name="lorem_ipsum"><![CDATA[The cows name was Hilda.]]></string>
+    <string name="title_template_step">Some Name</string>
+    <string name="action_previous">Previous</string>
+    <string name="action_finish">Finish</string>
+    <string name="action_next">Next</string>
+    <string name="title_page_zero">Det var en gång en ko.</string>
+    <string name="title_page_one">Hon levde på en liten planet som hette Konfigura. </string>
+    <string name="title_page_two">I huset levde Hildas vän Skvilda. </string>
+    <string name="title_page_three">Från Hildas mjölk fick Skvilda all den näring hon behövde, för Hilda var en magisk ko, och hennes mjölk var mättande som semlepudding och näringsrik som spenatsoppa. </string>
+    <string name="title_page_four">De var goda vänner och satt ofta uppe sent på natten för att prata och titta på stjärnorna.   </string>
+    <string name="title_page_five">En natt, efter att de båda somnat, så väcktes de av ett ljud...</string>
+    <string name="title_page_six">Ljudet kom ovanifrån. Det syntes en strimma av ljus däruppe, som om himlen var is som nån tung människa stod på så att den börjat spricka.</string>
+    <string name="title_page_six_point_five">De två vännerna undrade vad det kunde vara för varelser på andra sidan sprickan. Kanske hade de skruvade ben eller så kanske de flög omkring och bodde i moln? </string>
+    <string name="title_page_seven">De använde Hildas magiska mjölk som kraft i raketen. Raketkroppen byggde de av löv från busken som de band med grenar från trädet. Toppen på raketen fick bli deras hustak! </string>
+    <string name="title_page_eight">Hilda sa de magiska orden till mjölken och så bar det av! Upp, upp, upp, upp!  </string>
+    <string name="title_page_nine">Det var dag på andra sidan. De landade på en gräsbeklädd kulle. </string>
+    <string name="title_page_ten"> En varelse närmade sig dem. Den kom rakt upp och boffade dem i ansiktet, vilket fick dem att förstå att den var en vän. </string>
+    <string name="title_page_eleven">Valfiskdrake visade dem att de kunde använda bollarna som var istället för vatten i havet för att studsa med. Han berättade också att han kunde visa vägen till varelsen som gjort sprickan i himlen, så de följde efter honom.</string>
+    <string name="title_page_twelve">Valfiskdrake förklarade att sprickan kommit från en stuga, högt uppe på ett berg, där en varelse som liknade en uggla bodde.</string>
+    <string name="title_page_thirteen">Högre och högre uppåt färdades de, till dess de anlände vid en liten stuga, nära toppen på ett berg.</string>
+    <string name="title_page_fourteen"> I ugglas kök så blixtrade det från en stor maskin. Maskinen bullrade och skakade.</string>
+    <string name="title_page_fifteen">När Hilda och Skvilda kom in, blev Uggla skraj och hoppade, men Valfiskdrake kom in och boffade honom på ansiktet, vilket lugnade ner honom. </string>
+    <string name="title_page_sixteen">Jag har tre maskiner, sa Uggla, och hoppade runt köket och visade dem. Men min mamma är borta, så jag vet inte vilken man ska använda för att laga té. </string>
+    <string name="title_page_seventeen">Skvilda visste! Hon tog den allra minsta maskinen och vips hade hon kokat varmt, ångande té! </string>
+    <string name="title_page_eighteen">Uggla blev en så mycket gladare uggla när han druckit sitt té! Han fnurrade med öronen och tog ett litet glädjeskutt!</string>
+    <string name="title_page_nineteen">Det var en musikmaskin! </string>
+    <string name="title_page_twenty">Efter att de druckit mycket mera té och dansat länge, så började solen gå ner. Det var dags för Hilda och Skvilda att börja ge sig av hemåt. </string>
+    <string name="title_page_twentyone">Det var mörkt när Hilda och Skvilda kom tillbaka till skeppet, och de kunde se ljus från sin egen himmel genom sprickan i himlen.</string>
+    <string name="title_page_twentytwo">När Ugglas mamma kom hem så fixade hon sprickan i himlen, men hon lämnade en liten bit, så att vännerna skulle kunna åka och hälsa på varandra och leka när de fick lust till det.</string>
+    <string name="title_page_twentythree">Konstnärer: \nRakel Grabka - Uggla och Fjärilsvaldrake\nHenrik Jacobsson - blixtar\nOlivia Lundhqvist - bokikon</string>
+    <string name="title_page_default">Lorem Ipsum</string>
+
+
+    <string name="text_page_zero">Hon hette Hilda.</string>
+    <string name="text_page_one"> På Konfigura fanns det ett träd, en buske och ett hus.</string>
+    <string name="text_page_two">Skvilda hade fem armar och mjölkade Hilda varje morgon. </string>
+    <string name="text_page_three"> </string>
+    <string name="text_page_four">De undrade ofta vad som kunde finnas där ute. </string>
+    <string name="text_page_five">Det var ett knakande ljud, som om något var på väg att brista. </string>
+    <string name="text_page_six">Och sedan - Crasch! Bom! Bang! Himlen sprack! Himlen hade fått ett hål!</string>
+    <string name="text_page_six_point_five">De bestämde sig för att bygga en rymdraket för att ta reda på det.</string>
+    <string name="text_page_seven"></string>
+    <string name="text_page_eight"> </string>
+    <string name="text_page_nine"></string>
+    <string name="text_page_ten">Hans namn var Valfiskdrake. </string>
+    <string name="text_page_eleven"></string>
+    <string name="text_page_twelve">De fortsatte mot Uggla, och när de kommit högt nog så hoppade de på ett moln, för på den här planeten var molnen tjocka, och varelser och saker var lätta. </string>
+    <string name="text_page_thirteen"></string>
+    <string name="text_page_fourteen"></string>
+    <string name="text_page_fifteen"></string>
+    <string name="text_page_sixteen"> Vet du vilken maskin det är? frågade han.</string>
+    <string name="text_page_seventeen"></string>
+    <string name="text_page_eighteen"> De bestämde sig för att låta maskinen som hade haft sönder himlen vara, och försökte lista ut vad den tredje maskinen kunde vara för något?</string>
+    <string name="text_page_nineteen"></string>
+    <string name="text_page_twenty">De sa hejdå till sina nya vänner Valfiskdrake och Uggla. De hoppade på ett nedåtgående moln och började driva tillbaka till sitt skepp. </string>
+    <string name="text_page_twentyone">Raketen for iväg! På två blinkningar var de framme vid sprickan!  </string>
+    <string name="text_page_twentytwo">SLUT!</string>
+    <string name="text_page_twentythree">Saga och app av David Jacobsson</string>
+    <string name="text_page_twentyfour">dolor sit amet</string>
+    <string name="text_page_default">dolor sit amet</string>
+    <string name="no">Stäng inte.</string>
+   
+                        
+   
+
+</resources>

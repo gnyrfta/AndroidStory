@@ -1,0 +1,90 @@
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="true" >
+ <item
+    android:drawable="@drawable/page_eight_0225"
+    android:duration="100"/>
+<item
+    android:drawable="@drawable/page_eight_0229"
+    android:duration="100"/>
+<item
+    android:drawable="@drawable/page_eight_0233"
+    android:duration="100"/>
+<item
+    android:drawable="@drawable/page_eight_0237"
+    android:duration="100"/>
+<item
+    android:drawable="@drawable/page_eight_0241"
+    android:duration="100"/>
+<item
+    android:drawable="@drawable/page_eight_0245"
+    android:duration="100"/>
+<item
+    android:drawable="@drawable/page_eight_0249"
+    android:duration="100"/>
+<item
+    android:drawable="@drawable/page_eight_0253"
+    android:duration="100"/>
+<item
+    android:drawable="@drawable/page_eight_0257"
+    android:duration="100"/>
+<item
+    android:drawable="@drawable/page_eight_0261"
+    android:duration="100"/>
+<item
+    android:drawable="@drawable/page_eight_0265"
+    android:duration="100"/>
+<item
+    android:drawable="@drawable/page_eight_0269"
+    android:duration="100"/>
+<item
+    android:drawable="@drawable/page_eight_0273"
+    android:duration="100"/>
+<item
+    android:drawable="@drawable/page_eight_0277"
+    android:duration="100"/>
+<item
+    android:drawable="@drawable/page_eight_0281"
+    android:duration="100"/>
+<item
+    android:drawable="@drawable/page_eight_0285"
+    android:duration="100"/>
+<item
+    android:drawable="@drawable/page_eight_0289"
+    android:duration="100"/>
+<item
+    android:drawable="@drawable/page_eight_0293"
+    android:duration="100"/>
+<item
+    android:drawable="@drawable/page_eight_0297"
+    android:duration="100"/>
+<item
+    android:drawable="@drawable/page_eight_0301"
+    android:duration="100"/>
+<item
+    android:drawable="@drawable/page_eight_0305"
+    android:duration="100"/>
+<item
+    android:drawable="@drawable/page_eight_0309"
+    android:duration="100"/>
+<item
+    android:drawable="@drawable/page_eight_0313"
+    android:duration="100"/>
+<item
+    android:drawable="@drawable/page_eight_0317"
+    android:duration="100"/>
+<item
+    android:drawable="@drawable/page_eight_0321"
+    android:duration="100"/>
+<item
+    android:drawable="@drawable/page_eight_0325"
+    android:duration="100"/>
+<item
+    android:drawable="@drawable/page_eight_0329"
+    android:duration="100"/>
+<item
+    android:drawable="@drawable/page_eight_0333"
+    android:duration="100"/>
+<item
+    android:drawable="@drawable/page_eight_0337"
+    android:duration="100"/>
+</animation-list>

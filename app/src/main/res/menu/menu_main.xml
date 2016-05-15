@@ -1,0 +1,13 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.gnyrfta.androidstorytwelve.MainActivity">
+    <!--This xml file is not used.-->
+    <!--
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="@string/action_settings"
+        android:src="@drawable/ic_menu_preferences_inverted"
+        app:showAsAction="never" />-->
+</menu>

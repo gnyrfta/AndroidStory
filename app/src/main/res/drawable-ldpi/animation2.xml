@@ -1,0 +1,43 @@
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="true" >
+ <item
+    android:drawable="@drawable/page_two_0001"
+    android:duration="100"/>
+<item
+    android:drawable="@drawable/page_two_0010"
+    android:duration="100"/>
+<item
+    android:drawable="@drawable/page_two_0020"
+    android:duration="100"/>
+<item
+    android:drawable="@drawable/page_two_0029"
+    android:duration="100"/>
+<item
+    android:drawable="@drawable/page_two_0039"
+    android:duration="100"/>
+<item
+    android:drawable="@drawable/page_two_0080"
+    android:duration="100"/>
+<item
+    android:drawable="@drawable/page_two_0090"
+    android:duration="100"/>
+<item
+    android:drawable="@drawable/page_two_0100"
+    android:duration="100"/>
+<item
+    android:drawable="@drawable/page_two_0106"
+    android:duration="100"/>
+<item
+    android:drawable="@drawable/page_two_0159"
+    android:duration="100"/>
+<item
+    android:drawable="@drawable/page_two_0167"
+    android:duration="100"/>
+<item
+    android:drawable="@drawable/page_two_0174"
+    android:duration="100"/>
+<item
+    android:drawable="@drawable/page_two_0181"
+    android:duration="100"/>
+
+</animation-list>
